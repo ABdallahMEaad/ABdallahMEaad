@@ -1,154 +1,129 @@
-# 👋 Hi, I'm Abdallah Me3ad
+<div align="center">
+
+# 👋 Hi, I'm **Abdallah Me3ad**
 
 ### 🧪 QA & QC Engineer | Manual & Automation Testing
 
-Software Testing Engineer focused on **Manual Testing, UI Automation, API Testing, and Quality Assurance**.
+**Software Testing • Selenium • Java • TestNG • API • CI/CD**
 
-I build maintainable automation frameworks and enjoy designing test scenarios, finding defects, and improving software quality.
+<a href="https://github.com/ABdallahMEaad">
+<img src="https://komarev.com/ghpvc/?username=ABdallahMEaad&label=Profile%20Views&color=0e75b6&style=flat" />
+</a>
 
----
-
-## 👨‍💻 About Me
-
-* 🎓 BSc in Computer Science
-* 🧪 Software Testing & Quality Assurance
-* 🔍 Manual Testing & Test Case Design
-* 🤖 UI Automation using Java & Selenium
-* 🔌 API Testing using Postman
-* 🗄️ SQL & Database Testing
-* ⚙️ CI/CD with GitHub Actions
-* 📊 Performance Testing with JMeter
-* 🚀 Currently improving my Automation Testing skills
+</div>
 
 ---
 
-## 🛠️ Skills
+## 🚀 About Me
 
-### Testing
+🧪 QA & QC Engineer passionate about **Software Testing & Automation**.
 
-`Manual Testing` `Functional Testing` `Regression Testing` `Smoke Testing`
-`Integration Testing` `Exploratory Testing` `Bug Reporting` `SDLC` `STLC`
-`Agile` `Scrum`
+🔍 Manual Testing • 🤖 UI Automation • 🔌 API Testing • ⚙️ CI/CD
 
-### Automation
-
-`Java` `Selenium WebDriver` `TestNG` `Maven`
-`Page Object Model` `Data-Driven Testing` `DataProvider`
-`Explicit Waits`
-
-### API & Database
-
-`Postman` `REST API` `JSON` `SQL` `MySQL`
-
-### Performance
-
-`JMeter` `Load Testing` `Performance Testing`
-
-### Tools
-
-`Jira` `Git` `GitHub` `GitHub Actions` `IntelliJ IDEA`
+🎯 Currently building automation frameworks using **Java + Selenium + TestNG**.
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Tech Stack
 
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
-</p>
+<div align="center">
+
+### 🧪 Testing
+
+<img src="https://img.shields.io/badge/Manual%20Testing-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+<img src="https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+
+### 💻 Automation
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+<img src="https://img.shields.io/badge/POM-6A5ACD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Driven-8A2BE2?style=for-the-badge"/>
+
+### ⚙️ Tools & CI/CD
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge"/>
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🛒 Swag Labs Automation
+<div align="center">
 
-**Java | Selenium | TestNG | Maven**
+| 🛒 Project                    | 🔧 Stack                 | ⚡ Focus                                 |
+| ----------------------------- | ------------------------ | --------------------------------------- |
+| **Swag Labs Automation**      | Java • Selenium • TestNG | UI Automation • POM • DataProvider • CI |
+| **Practice Software Testing** | Java • Selenium • TestNG | Search • Filters • Allure               |
+| **Performance Testing**       | JMeter                   | Load Testing • Performance Analysis     |
 
-* Login automation
-* Product selection
-* Shopping cart
-* Checkout workflow
-* DataProvider
-* Page Object Model
-* Assertions & validations
-* GitHub Actions CI
+</div>
 
 ---
 
-### 🧰 Practice Software Testing Automation
+## ⚙️ CI Pipeline
 
-**Java | Selenium | TestNG | Maven**
+<div align="center">
 
-* Search testing
-* Product filtering
-* TestNG
-* Explicit waits
-* Page Object Model
-* Allure reporting
+**📤 Git Push**
 
----
+⬇️
 
-### ⚡ Performance Testing
+**⚙️ GitHub Actions**
 
-**Apache JMeter**
+⬇️
 
-* Load testing
-* Thread groups
-* Assertions
-* Response time analysis
-* Performance reports
+**☕ Java 21 + Maven**
 
----
+⬇️
 
-## ⚙️ CI/CD
+**🧪 TestNG + Selenium**
 
-Currently building automated CI pipelines with **GitHub Actions**.
+⬇️
 
-```text
-Git Push
-   ↓
-GitHub
-   ↓
-GitHub Actions
-   ↓
-Java 21
-   ↓
-Maven
-   ↓
-TestNG
-   ↓
-Selenium Tests
-   ↓
-Test Results
-```
+**📊 Test Results**
+
+</div>
 
 ---
 
-## 🎯 Career Focus
+## 🎯 Currently
 
-Currently interested in opportunities as:
+🧪 Building **Automation Testing Frameworks**
 
-* **Junior QA Engineer**
-* **Software Tester**
-* **QA Automation Engineer**
-* **QC Engineer**
-* **Software Testing Intern**
+🔌 Practicing **API Testing**
+
+⚡ Improving **Performance Testing**
+
+⚙️ Implementing **CI/CD with GitHub Actions**
 
 ---
 
 ## 📫 Connect With Me
 
-🌐 **Portfolio:**
-https://abdallahmeaad.github.io/My_CV/
+<div align="center">
 
+<a href="https://abdallahmeaad.github.io/My_CV/">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Portfolio-2EA44F?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/ABdallahMEaad">
+<img src="https://img.shields.io/badge/GitHub-ABdallahMEaad-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
 
 ---
 
-### 🧪 Quality is not just about finding bugs.
+<div align="center">
 
-### It's about building confidence in software. 🚀
+### 🧪 **Test. Automate. Improve.** 🚀
+
+</div>
