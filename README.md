@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/JMeter-D22128?style=flat-square"/>
 <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
 
-[🌐 Portfolio](https://abdallahmeaad.github.io/My_CV) • [💼 LinkedIn](https://www.linkedin.com/in/abdallah-meaad) • [📧 Email](mailto:abdallahmead0@gmail.com)
+[🌐 Portfolio](https://abdallahmeaad.github.io/My_CV) • [💼 LinkedIn](https://www.linkedin.com/in/abdallah-meaad) 
 
 </div>
 
