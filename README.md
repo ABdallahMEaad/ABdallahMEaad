@@ -1,173 +1,59 @@
 <div align="center">
 
-# 👋 ABDALLAH ME3AD
+# 👋 Abdallah Me3ad
 
-### 🧪 QA / QC Engineer
+### 🧪 QA / QC Engineer | Manual & Automation Testing
 
-**Manual Testing | Automation Testing | API | Performance | CI/CD**
+**Java • Selenium • TestNG • API Testing • SQL • JMeter • GitHub Actions**
 
-<br>
+<img src="https://img.shields.io/badge/Java-21-orange?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Selenium-WebDriver-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
+<img src="https://img.shields.io/badge/TestNG-FF6C37?style=flat-square"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/JMeter-D22128?style=flat-square"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Java-21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-<img src="https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-
-<br><br>
-
-<a href="https://abdallahmeaad.github.io/My_CV">
-<img src="https://img.shields.io/badge/🌐_Portfolio-Visit-2EA44F?style=for-the-badge"/>
-</a>
-<a href="https://www.linkedin.com/in/abdallah-meaad">
-<img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+[🌐 Portfolio](https://abdallahmeaad.github.io/My_CV) • [💼 LinkedIn](https://www.linkedin.com/in/abdallah-meaad) • [📧 Email](mailto:abdallahmead0@gmail.com)
 
 </div>
 
 ---
 
-## 🧭 QA ENGINEER DASHBOARD
+### 🔍 What I Do
 
-|      🧪 Testing     | 🤖 Automation |    🔌 API & DB   |    ⚙️ CI/CD    |
-| :-----------------: | :-----------: | :--------------: | :------------: |
-|    Manual Testing   |    Selenium   |      Postman     |       Git      |
-|      Functional     |      Java     |     REST API     |     GitHub     |
-|      Regression     |     TestNG    |    SQL / MySQL   | GitHub Actions |
-| Smoke / Exploratory |  Maven / POM  |      Swagger     |     Allure     |
-|    Bug Reporting    |  DataProvider | Database Testing |      Maven     |
+**Manual Testing** • **UI Automation** • **API Testing** • **Database Testing** • **Performance Testing** • **CI/CD**
 
 ---
 
-## 📊 PROJECT PORTFOLIO
+### 🚀 Featured Projects
 
-### 🟢 AUTOMATION
-
-**🛒 [Swag Labs — Selenium Automation](https://github.com/ABdallahMEaad/swag-labs-selenium-automation-java)**
-
-`Java 21` `Selenium` `TestNG` `Maven` `POM` `Allure` `GitHub Actions`
-
-> Login • Products • Cart • Sorting • Checkout • Data-Driven Testing • CI
-
----
-
-### 🔵 MANUAL & DATABASE TESTING
-
-**🏦 [BTMS — Banking Database Testing](https://github.com/ABdallahMEaad/DataBaseTesting-Banking-Transaction-Management-System-BTMS-)**
-
-`MySQL` `SQL` `Manual Testing` `Excel`
-
-> **103 Test Cases** • **17 Defects** • Data Integrity • Constraints • Business Rules
+| Project                                                                                                                      | Technologies                                               |
+| ---------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
+| 🛒 **[Swag Labs Automation](https://github.com/ABdallahMEaad/swag-labs-selenium-automation-java)**                           | Java • Selenium • TestNG • Maven • Allure • GitHub Actions |
+| 🏦 **[BTMS Database Testing](https://github.com/ABdallahMEaad/DataBaseTesting-Banking-Transaction-Management-System-BTMS-)** | MySQL • SQL • Manual Testing                               |
+| ⚡ **[Restful Booker Performance](https://github.com/ABdallahMEaad/restful-booker_Performance_Testing)**                      | JMeter • REST API • JSON                                   |
+| 🤖 **[Dojo Web Automation](https://github.com/ABdallahMEaad/Dojo-Web-Automation-Performance-Testing)**                       | Selenium • Java • JMeter                                   |
+| 🧪 **[OrangeHRM PIM Testing](https://github.com/ABdallahMEaad/OrangeHRM-PIM-Module-Testing)**                                | Manual Testing • Test Cases • Jira                         |
 
 ---
 
-### 🟣 PERFORMANCE & API
+### ⚙️ Automation Workflow
 
-**⚡ [Restful Booker — Performance Testing](https://github.com/ABdallahMEaad/restful-booker_Performance_Testing)**
-
-`JMeter` `REST API` `JSON`
-
-> **20 Concurrent Users** • Authentication • Booking • Correlation • Assertions
+`Requirements` → `Test Cases` → `Automation` → `Execution` → `Reports` → `GitHub Actions`
 
 ---
 
-### 🟠 AUTOMATION + PERFORMANCE
+### 🎯 Currently
 
-**🤖 [Dojo Web App — Automation & Performance](https://github.com/ABdallahMEaad/Dojo-Web-Automation-Performance-Testing)**
-
-`Selenium` `Java` `JMeter`
-
-> **100 Users** • CSV Data • API Token • Authentication • Load Testing
-
----
-
-### 🟡 MANUAL TESTING
-
-**🧪 [OrangeHRM — PIM Testing](https://github.com/ABdallahMEaad/OrangeHRM-PIM-Module-Testing)**
-
-`Manual Testing` `Test Cases` `RTM` `Bug Reporting`
-
-> **80+ Test Cases** • 10 Modules • Functional • Negative • BVA • Usability
-
----
-
-## ⚙️ CI/CD PIPELINE
-
-<div align="center">
-
-```text
-       👨‍💻 CODE
-          │
-          ▼
-     📤 GIT PUSH
-          │
-          ▼
-   ⚙️ GITHUB ACTIONS
-          │
-          ▼
-     ☕ JAVA 21
-          │
-          ▼
-       🔨 MAVEN
-          │
-          ▼
-    🧪 TESTNG + SELENIUM
-          │
-       ┌──┴──┐
-       ▼     ▼
-     ✅ PASS ❌ FAIL
-       │     │
-       ▼     ▼
-    📊 REPORTS
-```
-
-</div>
-
----
-
-## 📈 TESTING TOOLKIT
-
-```text
-MANUAL
-████████████████████  Functional • Regression • Smoke • Exploratory
-
-AUTOMATION
-███████████████████░  Selenium • Java • TestNG • POM
-
-API
-█████████████████░░░  Postman • REST • JSON • Swagger
-
-DATABASE
-████████████████░░░░  SQL • MySQL • SQL Server
-
-PERFORMANCE
-███████████████░░░░░  JMeter • Load Testing
-
-CI/CD
-██████████████░░░░░░  GitHub Actions • Maven • Git
-```
-
----
-
-## 🎯 CURRENT FOCUS
-
-```text
-🧪 Advanced Automation
-🔌 API Automation
-⚡ Performance Testing
-⚙️ CI/CD & GitHub Actions
-🏗️ Scalable Test Frameworks
-```
+🧪 Building **Selenium Automation Frameworks**
+🔌 Practicing **API Testing & Database Testing**
+⚡ Improving **Performance Testing**
+⚙️ Expanding **CI/CD with GitHub Actions**
 
 ---
 
 <div align="center">
 
-### 🧪 TEST • AUTOMATE • IMPROVE
-
-**QA / QC Engineer | Cairo, Egypt**
-
-📧 [abdallahmead0@gmail.com](mailto:abdallahmead0@gmail.com)
+### 🧪 Test • Automate • Improve 🚀
 
 </div>
