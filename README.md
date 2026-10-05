@@ -6,7 +6,7 @@
 
 **Java • Selenium • TestNG • API Testing • SQL • JMeter • GitHub Actions**
 
-<img src="https://img.shields.io/badge/Java-21-orange?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-orange?style=flat-square&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Selenium-WebDriver-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
 <img src="https://img.shields.io/badge/TestNG-FF6C37?style=flat-square"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
