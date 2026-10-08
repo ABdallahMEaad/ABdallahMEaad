@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,50:1976D2,100:42A5F5&height=200&section=header&text=Abdallah%20Me3ad&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=QA%20%2F%20QC%20Engineer%20%7C%20Manual%20%26%20Automation%20Testing&descSize=18&descAlignY=58" alt="Abdallah Me3ad - QA / QC Engineer" width="100%" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,50:1976D2,100:42A5F5&height=200&section=header&text=Abdallah%20Me3ad&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=QA%20Engineer%20%7C%20Manual%20and%20Automation%20Testing&descSize=18&descAlignY=58" alt="Abdallah Me3ad - QA Engineer" width="100%" />
 
