@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,50:1976D2,100:42A5F5&height=200&section=header&text=Abdallah%20Me3ad&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=QA%20%2F%20QC%20Engineer%20%7C%20Manual%20%26%20Automation%20Testing&descSize=18&descAlignY=58" alt="Abdallah Me3ad - QA / QC Engineer" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=800&height=45&lines=Manual+%7C+Automation+%7C+API+Testing;Java+%2B+Selenium+%2B+TestNG;Database+%7C+Performance+Testing;JMeter+%7C+GitHub+Actions" alt="Skills" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,50:1976D2,100:42A5F5&height=200&section=header&text=Abdallah%20Me3ad&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=QA%20Engineer%20%7C%20Manual%20and%20Automation%20Testing&descSize=18&descAlignY=58" alt="Abdallah Me3ad - QA Engineer" width="100%" />
 
 <br/>
 
