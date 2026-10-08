@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Abdallah MُEaad
+# 👋 Abdallah Me3ad
 
 ### 🧪 QA / QC Engineer | Manual & Automation Testing
 
@@ -50,9 +50,9 @@
 
 ### 🎯 Currently
 
-🧪 Building **Selenium Automation Frameworks**
-🔌 Practicing **API & Database Testing**
-⚡ Improving **Performance Testing**
+🧪 Building **Selenium Automation Frameworks**<br/>
+🔌 Practicing **API & Database Testing**<br/>
+⚡ Improving **Performance Testing**<br/>
 ⚙️ Expanding **CI/CD with GitHub Actions**
 
 ---
