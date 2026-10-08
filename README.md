@@ -72,18 +72,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.shion.dev/api?username=ABdallahMEaad&show_icons=true&hide_border=true&bg_color=0D1117&title_color=42A5F5&icon_color=1976D2&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub stats" height="170" />
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ABdallahMEaad&layout=compact&hide_border=true&bg_color=0D1117&title_color=42A5F5&text_color=C9D1D9" alt="Top languages" height="170" />
-
-</div>
-
----
-
-<div align="center">
 
 ### 💙 Test • Automate • Improve 🚀
 
